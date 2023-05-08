@@ -37,6 +37,8 @@ death in states that have higher numbers of suspected flu cases.**
 ### **Analysis**
 A statistically significant relationship was found between higher flu deaths and higher number of visits to providers for evaluation of flu like symptoms. The staffing plan recommendation outlined a method of calculating the staff received by each state. States with percentage of flu visits above the monthly average will receive proportionally more staff based on their average staffing number. For each percentage point above the national average, a state will receive staff based on yearly fluctuation in providers. Conclusion of the project included recommendations for collecting additional data to guide plan assessment. 
 
+#### [Statistical Analysis](https://github.com/dsad8000/tempmed-staffing/blob/main/Statistical_Analysis.xlsx)
+#### [Statistical Hypothesis Testing](https://github.com/dsad8000/tempmed-staffing/blob/main/Statistical_Hypothesis_Testing.xlsx)
 
 #### [Interim Report following hypothesis testing](https://github.com/dsad8000/tempmed-staffing/blob/main/TempMed_Staffing_Interim_Report.pdf)
 
