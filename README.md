@@ -25,6 +25,8 @@ Original datasets (available as downloadable Excel files):
 Initial analysis focused on variability in location and age. Increased age correlated strongly with increased 
 incidence of flu deaths (0.8), indicating that incidence of death by seasonal flu increases with age across 
 the U.S.
+<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/Statistical_hypothesis_testing.jpg><kbd>
+
 ### **Results and Insights**
 1. *Null hypothesis 1:* In states that have more suspected flu visits to providers, the providers see the same number of patients as in states with fewer suspected flu visits to providers.
   - *Alternative hypothesis 1:* In states that have more suspected flu visits to providers, the providers see the more as in states with fewer suspected flu visits to providers.
@@ -33,14 +35,18 @@ the U.S.
   - *Alternative hypothesis 2:* In states that have more suspected flu visits to providers, the incidence of death from seasonal flu among people 65 years and older is higher than that in other states.
   - **At a confidence level of 95%, there is a significant difference in the incidence of 
 death in states that have higher numbers of suspected flu cases.**
+  
+<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/t_test_1.jpg><kbd>
+<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/t_test_2.jpg><kbd>
 
 ### **Analysis**
 A statistically significant relationship was found between higher flu deaths and higher number of visits to providers for evaluation of flu like symptoms. The staffing plan recommendation outlined a method of calculating the staff received by each state. States with percentage of flu visits above the monthly average will receive proportionally more staff based on their average staffing number. For each percentage point above the national average, a state will receive staff based on yearly fluctuation in providers. Conclusion of the project included recommendations for collecting additional data to guide plan assessment. 
 
+#### Downloadable Excel files
 #### [Statistical Analysis](https://github.com/dsad8000/tempmed-staffing/blob/main/Statistical_Analysis.xlsx)
 #### [Statistical Hypothesis Testing](https://github.com/dsad8000/tempmed-staffing/blob/main/Statistical_Hypothesis_Testing.xlsx)
 
-#### [Interim Report following hypothesis testing](https://github.com/dsad8000/tempmed-staffing/blob/main/TempMed_Staffing_Interim_Report.pdf)
+#### [PDF Interim Report following hypothesis testing](https://github.com/dsad8000/tempmed-staffing/blob/main/TempMed_Staffing_Interim_Report.pdf)
 
 #### **Sample Tableau Visualizations**
 #### [Full Tableau Storyboard](https://public.tableau.com/app/profile/danielle.sadler6048/viz/TempMedStaffingStoryboard/StaffingPlan)
