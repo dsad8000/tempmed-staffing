@@ -3,7 +3,7 @@
 <img src="staffing_map_white.jpg"  width="50%" height="50%">
 
 ### **Objective:** 
-The goal of the project was to create a staffing plan for temporary medical employees supplied to hospitals and clinics in the U.S during flu season. The staffing agency required analysis of demographic data to identify vulnerable populations and recommend decisions about where and when to send members of their limited staffing pool. The goal of the plan is to employ all available staff and  minimize understaffing across states.
+The goal of the project was to create a staffing plan for temporary medical employees supplied to hospitals and clinics in the U.S during flu season. The staffing agency required analysis of demographic data to identify vulnerable populations and recommend decisions about where and when to send members of their limited staffing pool. The goal of the plan was to employ all available staff and  minimize understaffing across states.
 ### **Context:** 
 The project was part of the Career Foundry curriculum to demonstrate mastery of Tableau storyboard visualization techniques: temporal visualization and forecasting, statistical visualization and spatial analysis, and presentation of findings. Advanced Excel skills included data profiling and integrity testing, data quality measures, statistical analyses, and statistical hypothesis testing.
 ### **Datasets**
