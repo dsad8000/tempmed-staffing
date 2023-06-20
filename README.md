@@ -7,12 +7,12 @@ The goal of the project was to create a staffing plan for temporary medical empl
 ### **Context:** 
 The project was part of the Career Foundry curriculum to demonstrate mastery of Tableau storyboard visualization techniques: temporal visualization and forecasting, statistical visualization and spatial analysis, and presentation of findings. Advanced Excel skills included data profiling and integrity testing, data quality measures, statistical analyses, and statistical hypothesis testing.
 ### **Datasets**
-Original datasets (available as downloadable Excel files):
+Original datasets:
 - [CDC Influenza Deaths](https://github.com/dsad8000/tempmed-staffing/blob/main/CDC_Influenza_Deaths.xlsx)
 - [CDC Influenza Visits](https://github.com/dsad8000/tempmed-staffing/blob/main/CDC_Influenza_Visits.xlsx)
 - [CDC Lab Tests](https://github.com/dsad8000/tempmed-staffing/blob/main/CDC_Lab_Tests.xlsx)
 - [Census Population](https://github.com/dsad8000/tempmed-staffing/blob/main/Census_Population_transformed_202101.xlsx)
-### Cleaned and transformed dataset (downloadable Excel file):
+### Cleaned and transformed dataset:
 - [Integrated Data](https://github.com/dsad8000/tempmed-staffing/blob/main/Integrated_Data.xlsx)
 ### **Data Limitations**
 1. The main limitation in the data sets was that the CDC flu data covered only the years before 2019, so any analysis loses timeliness for application to the current flu season. 
