@@ -1,6 +1,7 @@
 # Tempmed Staffing
 ## Temporary Healthcare Employee Staffing Plan
-<img src="staffing_map_white.jpg"  width="50%" height="50%">
+<img src=https://github.com/dsad8000/tempmed-staffing/assets/98616377/15d9278b-5d69-4dea-ae04-7bc16c664beb, width=50%, length=50%>
+
 
 ### **Objective:** 
 The goal of the project was to create a staffing plan for temporary medical employees supplied to hospitals and clinics in the U.S during flu season. The staffing agency required analysis of demographic data to identify vulnerable populations and recommend decisions about where and when to send members of their limited staffing pool. The goal of the plan was to employ all available staff and  minimize understaffing across states.
@@ -25,7 +26,7 @@ Original datasets:
 Initial analysis focused on variability in location and age. Increased age correlated strongly with increased 
 incidence of flu deaths (0.8), indicating that incidence of death by seasonal flu increases with age across 
 the U.S.
-<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/Statistical_hypothesis_testing.jpg><kbd>
+<img src=https://github.com/dsad8000/tempmed-staffing/assets/98616377/c3090e5d-13b9-453c-9421-47a7ae2c0f53, width=80%, length=80%>
 
 ### **Results and Insights**
 1. *Null hypothesis 1:* In states that have more suspected flu visits to providers, the providers see the same number of patients as in states with fewer suspected flu visits to providers.
@@ -36,8 +37,8 @@ the U.S.
   - **At a confidence level of 95%, there is a significant difference in the incidence of 
 death in states that have higher numbers of suspected flu cases.**
   
-<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/t_test_1.jpg><kbd>
-<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/t_test_2.jpg><kbd>
+<img src=https://github.com/dsad8000/tempmed-staffing/assets/98616377/45259f85-a0cc-44c3-8ec2-4dac08549dc4, width=80%, length=80%>
+<img src=https://github.com/dsad8000/tempmed-staffing/assets/98616377/a78d7c27-bc32-414b-ae4e-3dd5ea8282a1, width=80%, length=80%>
 
 ### **Analysis**
 A statistically significant relationship was found between higher flu deaths and higher number of visits to providers for evaluation of flu like symptoms. The staffing plan recommendation outlined a method of calculating the staff received by each state. States with percentage of flu visits above the monthly average will receive proportionally more staff based on their average staffing number. For each percentage point above the national average, a state will receive staff based on yearly fluctuation in providers. Conclusion of the project included recommendations for collecting additional data to guide plan assessment. 
@@ -50,9 +51,12 @@ A statistically significant relationship was found between higher flu deaths and
 
 #### **Sample Tableau Visualizations**
 #### [Full Tableau Storyboard](https://public.tableau.com/app/profile/danielle.sadler6048/viz/TempMedStaffingStoryboard/StaffingPlan)
-<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/Deaths_provider_visits_map.jpg><kbd>
-<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/Staffing_plan_1.jpg><kbd>
-<kbd><img src=https://github.com/dsad8000/tempmed-staffing/blob/main/Staffing_plan_2.jpg><kbd>
+
+<kbd>![Deaths_provider_visits_map](https://github.com/dsad8000/tempmed-staffing/assets/98616377/431d2e03-b36e-42de-9805-a5fb21c0a0bf)<kbd>
+
+<kbd>![Staffing_plan_1](https://github.com/dsad8000/tempmed-staffing/assets/98616377/24f351a3-3d42-43fa-9a88-9c9df5d5b3cd)<kbd>
+
+<kbd>![Staffing_plan_2](https://github.com/dsad8000/tempmed-staffing/assets/98616377/99606d3d-0191-45cd-b1a4-01de07ec047f)<kbd>
 
 
 
