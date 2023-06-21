@@ -8,13 +8,11 @@ The goal of the project was to create a staffing plan for temporary medical empl
 ### **Context:** 
 The project was part of the Career Foundry curriculum to demonstrate mastery of Tableau storyboard visualization techniques: temporal visualization and forecasting, statistical visualization and spatial analysis, and presentation of findings. Advanced Excel skills included data profiling and integrity testing, data quality measures, statistical analyses, and statistical hypothesis testing.
 ### **Datasets**
-Original datasets:
-- [CDC Influenza Deaths](https://github.com/dsad8000/tempmed-staffing/blob/main/CDC_Influenza_Deaths.xlsx)
-- [CDC Influenza Visits](https://github.com/dsad8000/tempmed-staffing/blob/main/CDC_Influenza_Visits.xlsx)
-- [CDC Lab Tests](https://github.com/dsad8000/tempmed-staffing/blob/main/CDC_Lab_Tests.xlsx)
-- [Census Population](https://github.com/dsad8000/tempmed-staffing/blob/main/Census_Population_transformed_202101.xlsx)
-### Cleaned and transformed dataset:
-- [Integrated Data](https://github.com/dsad8000/tempmed-staffing/blob/main/Integrated_Data.xlsx)
+### [Original datasets](https://github.com/dsad8000/tempmed-staffing/tree/main/Temp-Med%20Staffing/Initial_datasets)
+
+### Cleaned and transformed datasets:
+### [Integrated Data](https://github.com/dsad8000/tempmed-staffing/tree/main/Temp-Med%20Staffing/Analyzed_datasets)
+
 ### **Data Limitations**
 1. The main limitation in the data sets was that the CDC flu data covered only the years before 2019, so any analysis loses timeliness for application to the current flu season. 
 **Based on the CDC's description of data collection processes, there is a 2-year time delay in the calculation of flu cases. The next iteration of the project would include the data from the 2021-2022 flu season to calculate future staffing requirements.**
@@ -43,11 +41,10 @@ death in states that have higher numbers of suspected flu cases.**
 ### **Analysis**
 A statistically significant relationship was found between higher flu deaths and higher number of visits to providers for evaluation of flu like symptoms. The staffing plan recommendation outlined a method of calculating the staff received by each state. States with percentage of flu visits above the monthly average will receive proportionally more staff based on their average staffing number. For each percentage point above the national average, a state will receive staff based on yearly fluctuation in providers. Conclusion of the project included recommendations for collecting additional data to guide plan assessment. 
 
-#### Downloadable Excel files
-#### [Statistical Analysis](https://github.com/dsad8000/tempmed-staffing/blob/main/Statistical_Analysis.xlsx)
-#### [Statistical Hypothesis Testing](https://github.com/dsad8000/tempmed-staffing/blob/main/Statistical_Hypothesis_Testing.xlsx)
+#### [Statistical Analysis](https://github.com/dsad8000/tempmed-staffing/blob/main/Temp-Med%20Staffing/Analyzed_datasets/Statistical_Analysis.xlsx)
+#### [Statistical Hypothesis Testing](https://github.com/dsad8000/tempmed-staffing/blob/main/Temp-Med%20Staffing/Analyzed_datasets/Statistical_Hypothesis_Testing.xlsx)
 
-#### [PDF Interim Report following hypothesis testing](https://github.com/dsad8000/tempmed-staffing/blob/main/TempMed_Staffing_Interim_Report.pdf)
+#### [PDF Interim Report following hypothesis testing](https://github.com/dsad8000/tempmed-staffing/blob/main/Temp-Med%20Staffing/TempMed_Staffing_Interim_Report.pdf)
 
 #### **Sample Tableau Visualizations**
 #### [Full Tableau Storyboard](https://public.tableau.com/app/profile/danielle.sadler6048/viz/TempMedStaffingStoryboard/StaffingPlan)
